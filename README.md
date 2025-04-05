@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**criscandeloro/criscandeloro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Meu nome é Cristine Candeloro
 
 Linkedin: www.linkedin.com/in/cristinecandeloro
 
